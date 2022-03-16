@@ -1,9 +1,9 @@
 <?php
 //database variables
-$server = 'kstds.ca8twtlpsix7.me-south-1.rds.amazonaws.com';
+$server = '';
 $port = 3306;
 $db_username = 'admin';
-$db_password = 'KFUPM123';
+$db_password = '';
 $db_name = 'kstds';
 
 //connect to database
